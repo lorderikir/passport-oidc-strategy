@@ -1,6 +1,6 @@
 {
-  "name": "passport-openidconnect",
-  "version": "0.0.2",
+  "name": "passport-oidc-strategy",
+  "version": "0.1.0",
   "description": "OpenID Connect authentication strategy for Passport.",
   "keywords": [
     "passport",
@@ -11,17 +11,24 @@
     "authentication",
     "identity"
   ],
-  "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
-  },
+  "authors": [
+    {
+      "name": "Jared Hanson",
+      "email": "jaredhanson@gmail.com",
+      "url": "http://www.jaredhanson.net/"
+    },
+    {
+      "name": "Eric Jiang",
+      "email": "ericjiang97@gmail.com",
+      "url": "https://www.lorderikir.me/"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-openidconnect.git"
+    "url": "git://git@github.com:lorderikir/passport-openidconnect.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-openidconnect/issues"
+    "url": "http://github.com/lorderikir/passport-openidconnect/issues"
   },
   "license": "MIT",
   "licenses": [
