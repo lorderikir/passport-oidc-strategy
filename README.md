@@ -10,7 +10,7 @@ supports [Connect](http://www.senchalabs.org/connect/)-style middleware,
 including [Express](http://expressjs.com/).
 
 ## Credits
-
+  - [Eric Jiang](https://github.com/lorderikir)
   - [Jared Hanson](http://github.com/jaredhanson)
 
 ## License
@@ -18,5 +18,4 @@ including [Express](http://expressjs.com/).
 [The MIT License](http://opensource.org/licenses/MIT)
 
 Copyright (c) 2011-2013 Jared Hanson <[http://jaredhanson.net/](http://jaredhanson.net/)>
-
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/vK9dyjRnnWsMzzJTQ57fRJpH/jaredhanson/passport-openidconnect'>  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/vK9dyjRnnWsMzzJTQ57fRJpH/jaredhanson/passport-openidconnect.svg' /></a>
+Copyright (c) 2019 Eric Jiang <[http:/lorderikir.me/](http://lorderikir.me/)>
